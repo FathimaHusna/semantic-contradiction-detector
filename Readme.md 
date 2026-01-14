@@ -1,7 +1,6 @@
+
 ## ⚙️ Setup Instructions
 
-```markdown
-```bash
 git clone https://github.com/FathimaHusna/semantic-contradiction-detector.git
 cd semantic-contradiction-detector
 
@@ -37,5 +36,7 @@ pip install -r requirements.txt
 ```bash
 python contradiction_detector.py
 ```
+
+
 
 
