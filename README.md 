@@ -1,49 +1,42 @@
 
+## ⚙️ Setup Instructions
 
-```markdown
-## Setup Instructions
+git clone https://github.com/FathimaHusna/semantic-contradiction-detector.git
+cd semantic-contradiction-detector
 
-1. **Clone the repository**
-   ```bash
-    git clone https://github.com/FathimaHusna/semantic-contradiction-detector.git
-    cd semantic-contradiction-detector
 
-```
+### 2️⃣ Create a virtual environment
 
-2. **Create a virtual environment**
 ```bash
 python -m venv venv
-
 ```
 
+### 3️⃣ Activate the virtual environment
 
-3. **Activate the virtual environment**
-* **Windows:**
+**Windows:**
+
 ```bash
 .\venv\Scripts\activate
-
 ```
 
+**macOS / Linux:**
 
-* **macOS / Linux:**
 ```bash
 source venv/bin/activate
-
 ```
 
+### 4️⃣ Install requirements
 
-
-
-4. **Install requirements**
 ```bash
 pip install -r requirements.txt
-
 ```
 
+### 5️⃣ Run the program
 
-5. **Run the program**
 ```bash
 python contradiction_detector.py
-
 ```
+
+
+
 
